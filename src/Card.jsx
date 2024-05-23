@@ -9,6 +9,9 @@ const Card = (id, title, text) => {
               <h5 className="card-title text-center">Card title</h5>
               <p className="card-text text-center p-3">
                 Some quick example text to build on the card title and make up the bulk of the card's content.
+
+
+                ESTOY HACIENDO UNA PRUEBA
               </p>
             </div>
             <ul className="list-group list-group-flush">
